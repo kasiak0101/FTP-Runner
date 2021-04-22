@@ -1,0 +1,44 @@
+@echo off
+:start
+cls
+title FTP Runner 2.0
+color 0A
+echo Options
+echo 1. Yes
+echo 2. No
+echo 3. Close
+echo 4. My IP Address for FTP and Password
+echo.
+set /p PROGRAM= Select the option: 
+goto %PROGRAM%
+
+
+:1
+cls
+set /p FTP= Connect to any FTP: 
+cls
+ftp %FTP%
+
+
+:2
+cls
+echo OK, bye!
+pause
+goto start
+
+
+:3
+exit
+
+:4
+cls
+echo ----------------
+echo IP: 192.168.1.38 
+echo ----------------
+echo User: admin
+echo ----------------
+echo Password: 1234
+echo ----------------
+echo.
+pause
+goto start
