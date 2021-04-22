@@ -1,8 +1,8 @@
 # Links
-New releases => https://github.com/win20-official/FTP-Runner/releases
-My Instagram => https://instagram.com/w.20_insta
-My TikTok => https://tiktok.com/@watchtiktok127
-My Linktree => linktr.ee/windows20
+https://github.com/win20-official/FTP-Runner/releases
+https://instagram.com/w.20_insta
+https://tiktok.com/@watchtiktok127
+linktr.ee/windows20
 
 # My OS
 Windows 10 Home
