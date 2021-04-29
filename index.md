@@ -16,3 +16,7 @@ Windows 20
 # Main project
 Link => <a href="https://github.com/win20-official/FTP-Runner">Project</a>
 
+# Support
+Click here to support me => <a href="mailto:Win10Fan000@outlook.com">Mail me!</a>
+
+
