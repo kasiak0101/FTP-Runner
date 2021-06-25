@@ -14,7 +14,7 @@ To use the software just run the batch file and Done
 Windows 20
 
 # Support
-Click here to support me => <a href="mailto:Win10Fan000@outlook.com">Mail me!</a>
+Click here to support me => <a href="mailto:test.konto.6321@gmail.com">Mail me!</a>
 
 # Main project
 Link => <a href="https://github.com/win20-official/FTP-Runner">Project</a>
