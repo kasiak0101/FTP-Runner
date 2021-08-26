@@ -2,4 +2,4 @@
  Batch
  
  # Software used
- Notepad+
+ Notepad++
